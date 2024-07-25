@@ -1,0 +1,12 @@
+2024-07-25 18:01:50 - Key pressed: 1
+2024-07-25 18:01:50 - Key pressed: Key.enter
+2024-07-25 18:01:52 - Key pressed: Key.ctrl_l
+2024-07-25 18:01:52 - Key pressed: 
+2024-07-25 18:01:53 - Key pressed: 2
+2024-07-25 18:01:54 - Key pressed: Key.enter
+2024-07-25 18:01:56 - Key pressed: Key.enter
+2024-07-25 18:01:56 - Key pressed: Key.enter
+2024-07-25 18:01:56 - Key pressed: 2
+2024-07-25 18:01:56 - Key pressed: 2
+2024-07-25 18:01:57 - Key pressed: 2
+2024-07-25 18:01:57 - Key pressed: 2
